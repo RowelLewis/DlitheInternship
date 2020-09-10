@@ -1,0 +1,12 @@
+package internship.rowel.project1;
+
+public class Bike {
+	private String model; private Integer year, milage, cc; private Double cost;
+	
+	public void setModel(String model) {
+		this.model = model;
+	}
+	public void displayModel() {
+		System.out.println(this.model);
+	}
+}

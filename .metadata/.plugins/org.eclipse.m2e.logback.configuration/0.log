@@ -475,3 +475,67 @@
 2020-09-09 19:41:18,582 [Worker-29: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-09 19:41:18,582 [Worker-29: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
 2020-09-10 18:33:53,758 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-09-10 19:00:28,525 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:00:28,547 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:00:28,562 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:00:28,562 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:02:26,960 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:02:26,960 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:02:26,965 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:02:26,965 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:02:29,153 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:02:29,154 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:02:29,174 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:02:29,175 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:05:19,715 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:05:19,715 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:05:19,717 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:05:19,717 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:06:28,218 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:06:28,218 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:06:28,221 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:06:28,221 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:06:53,504 [Worker-18: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:06:53,505 [Worker-18: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:06:53,513 [Worker-18: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:06:53,514 [Worker-18: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:13:16,976 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:13:16,976 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:13:16,987 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:13:16,987 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:13:26,984 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:13:26,985 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:13:26,988 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:13:26,988 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:25:53,652 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:25:53,652 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:25:53,654 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:25:53,654 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:28:33,446 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:28:33,446 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:28:33,448 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:28:33,449 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:28:44,336 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:28:44,337 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:28:44,342 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:28:44,343 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:28:56,651 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:28:56,651 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:28:56,653 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:28:56,653 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:30:07,152 [Worker-4: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:30:07,155 [Worker-4: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:30:07,166 [Worker-4: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:30:07,167 [Worker-4: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:33:01,584 [Worker-21: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:33:01,584 [Worker-21: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:33:01,592 [Worker-21: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:33:01,592 [Worker-21: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:34:36,210 [Worker-22: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:34:36,211 [Worker-22: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:34:36,214 [Worker-22: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:34:36,214 [Worker-22: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
+2020-09-10 19:45:40,758 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:45:40,759 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/main/resources
+2020-09-10 19:45:40,765 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 19:45:40,766 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rowel/Documents/java-dlithe-workspace/project1/src/test/resources
