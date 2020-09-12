@@ -34,6 +34,13 @@ public class Main {
 		b2.setCost(70000d);
 		System.out.println(b2);
 		
+		Bike b3 = new Bike();
+		b3.setModel("tvs200");
+		b3.setYear(2009);
+		b3.setMilage(59);
+		b3.setCc(200);
+		b3.setCost(7000d);
+		System.out.println(b3);
 	}
 }
 //Datatypes :int float char byte double boolean long short
