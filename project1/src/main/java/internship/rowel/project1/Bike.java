@@ -3,7 +3,7 @@ package internship.rowel.project1;
 public class Bike {
 	private String model=""; private Integer year=0, milage=0, cc=0; private Double cost=0.0;
 	
-	public Bike(String model, Integer year, Integer milage, Integer cc, Double cost) {
+	public Bike() {
 		this.model = model;
 		this.year = year;
 		this.milage = milage;
@@ -49,6 +49,10 @@ public class Bike {
 	
 	public void displayAll() {
 		System.out.println(this.model+" "+this.year+" "+this.milage+" "+this.cc+" "+this.cost);
+	}
+	
+	public static void main(String[] args) {
+		
 	}
 	
 }
